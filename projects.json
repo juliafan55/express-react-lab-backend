@@ -1,0 +1,14 @@
+[
+    {
+      "name": "Studio Ghibli Trivia",
+      "live": "https://juliafan55.github.io/Project-1-Trivia/",
+      "git": "https://github.com/juliafan55/Project-1-Trivia",
+      "image": "http://www.imgur.com/pictureofproject.png"
+    },
+    {
+      "name": "Popcorn Time",
+      "live": "https://sei-popcorn-time.herokuapp.com/movies",
+      "git": "https://github.com/anandpatel48/SEI-Project-2-IMDB",
+      "image": "http://www.imgur.com/pictureofproject.png"
+    }
+  ]
